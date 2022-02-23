@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just lamentation for the irrecoverable loss of the nation by the doleful death of the late Queen Mary of blessed memory delivered in a sermon preached at Daventry March 5, 1694/5 [i.e. 1695] / by Andrew Barnett.</title>
+            <author>Barnett, Andrew, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31009</idno>
+            <idno type="STC">Wing B875A</idno>
+            <idno type="STC">ESTC R30713</idno>
+            <idno type="EEBO-CITATION">11413990</idno>
+            <idno type="OCLC">ocm 11413990</idno>
+            <idno type="VID">47741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1453:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just lamentation for the irrecoverable loss of the nation by the doleful death of the late Queen Mary of blessed memory delivered in a sermon preached at Daventry March 5, 1694/5 [i.e. 1695] / by Andrew Barnett.</title>
+                  <author>Barnett, Andrew, 17th cent.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47741:1"/>
+            <pb facs="tcp:47741:1" rendition="simple:additions"/>
+            <p>A Juſt Lamentation FOR THE Irrecoverable Loſs OF THE NATION, BY The Doleful Death of the Late Queen Mary Of Bleſſed Memory: Delivered in a Sermon Preached at <hi>Da<g ref="char:EOLhyphen"/>ventry</hi> March 5. 1694/5.</p>
+            <p>By <hi>Andrew Barnett</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>Lam. 2.1.</bibl>
+               <p>How hath the Lord covered the Daughter of <hi>Sion,</hi> with a Cloud in his anger, and caſt down from Heaven unto the Earth the beauty of <hi>Iſrael,</hi> and remembred not his footſtool in the day of his anger!</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers Chappel</hi> 1695.</p>
+            <pb facs="tcp:47741:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:47741:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:47741:3"/>
+            <pb n="1" facs="tcp:47741:3"/>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. ii 3, 4.</bibl>
+                  <p>If the Foundations be Deſtroyed, what can the Righteous do? The Lord is in his Temple; The Lord's Throne is in Heaven.</p>
+               </q>
+            </epigraph>
+            <p>WE are now before the Lord to Commemorate the Death of the Re<g ref="char:EOLhyphen"/>nowned Late Queen, Queen <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> by which the Glory of the Na<g ref="char:EOLhyphen"/>tion is Ecclipſed, and one great ground of our Humane hopes Buried in the Duſt.</p>
+            <p>Such a Character is given of her as few juſtly attain to in this cenſorious World. So cordial in her conjugal Affections, ſo con<g ref="char:EOLhyphen"/>ſtant in prudent Reſolutions, ſo compaſſionate to needy Subjects,
+<pb n="2" facs="tcp:47741:4"/>ſo concerned for the Publick-Good, ſo conſiderate in weighty affairs, ſo confirmed in the Prin<g ref="char:EOLhyphen"/>ciples of Religion, ſo accommo<g ref="char:EOLhyphen"/>dated with moral vertues, ſo con<g ref="char:EOLhyphen"/>ſcientious in pious practices, and ſo rarely qualified for her ſtate of honour, that ſhe became to others an eminent example, and her Name will be both Titulary and truly of bleſſed memory to all Poſterity.</p>
+            <p>She was one of the Chief Cor<g ref="char:EOLhyphen"/>ner Stones that ſupported the fa<g ref="char:EOLhyphen"/>mous Structure of this Common<g ref="char:EOLhyphen"/>wealth, and <hi>if the Foundation be deſtroyed, what can the Righte<g ref="char:EOLhyphen"/>ous do?</hi> What God will do with us, we cannot certainly preſage, but this we know, that when God boxeth up his pretious Jewels, and Inneth his Wheat, it tells us that a Storm is at hand. And when ſin
+<pb n="3" facs="tcp:47741:4"/>groweth rampant, and the Righ<g ref="char:EOLhyphen"/>teous are taken away, it is a ſign that Evil is a coming.</p>
+            <p>God hath made <hi>England</hi> a San<g ref="char:EOLhyphen"/>ctuary for the Righteous, and hi<g ref="char:EOLhyphen"/>ther poor Fugitive Chriſtians that ſuffer for righteouſneſs ſake fly and find refuge: But <hi>if the Foun<g ref="char:EOLhyphen"/>dations be deſtroyed, what can the Righteous do?</hi> Lament they may, and will, but alas, alas, what can they do?</p>
+            <p n="1">1. Note then the ſuppoſition contained in the Text (if the Foun<g ref="char:EOLhyphen"/>dations be deſtroyed) and inno<g ref="char:EOLhyphen"/>cent Perſons come thereby to have their outward ſecurity taken away, and have nothing left them to build their humane hope upon. If this come to be their Caſe,</p>
+            <p n="2">2. Note then the ſad concluſi<g ref="char:EOLhyphen"/>on (What can the Righteous do?)
+<pb n="4" facs="tcp:47741:5"/>Alas they can do juſt nothing in order to their own relief; their caſe is become forlorn and deplo<g ref="char:EOLhyphen"/>rable, and they are left without any viſible remedy. They muſt then (will they, nill they) ſit down under their oppreſſions, and en<g ref="char:EOLhyphen"/>deavour to bear them with Pati<g ref="char:EOLhyphen"/>ence, for they have no way to help themſelves. What can they do? Can they raiſe up new Foundati<g ref="char:EOLhyphen"/>ons? No, Can they dwell in ſafe<g ref="char:EOLhyphen"/>ty in the building that wants good foundations? No; What then can they do? All that they can do is to lament the Caſe, and lay it o<g ref="char:EOLhyphen"/>pen before the Lord, and ſupport their ſinking hearts with this, That the Lord ſits (ſtill) in his Holy Temple, and his Throne is in Hea<g ref="char:EOLhyphen"/>ven: Let us then here obſerve,
+<list>
+                  <item>1. That the Loſs of the Foun<g ref="char:EOLhyphen"/>dations
+<pb n="5" facs="tcp:47741:5"/>puts the righteous in<g ref="char:EOLhyphen"/>to a moſt forlorn condition, and is matter of juſt lamenta<g ref="char:EOLhyphen"/>tion.</item>
+                  <item>2. That when the Righteous are lamenting the loſs of the Foundations, they ought to look up to God for refuge, and to call to remembrance, that God ſits in his Holy Temple, and that his Throne is in Heaven.</item>
+               </list>
+            </p>
+            <p n="1">1. The loſs of the Foundation is a lamentable loſs, and puts the Righteous into a moſt forlorn and deplorable condition. By Foun<g ref="char:EOLhyphen"/>dations we are to underſtand all ſuch things on which the welfare of the Nation doth depend, and on which the Inhabitants thereof do uſe to build their humane hope of their ſafety and outward proſ<g ref="char:EOLhyphen"/>perity.
+<pb n="6" facs="tcp:47741:6"/>The Metaphor includes all the things that do ſupport and uphold the Structures of the Church and Kingdom in which we live. As, The fundamental con<g ref="char:EOLhyphen"/>ſtitution, the firm and righteous Laws, and the faithful Governors thereof: and the laſt of theſe is particularly pointed at in the Text: All theſe belong to the Founda<g ref="char:EOLhyphen"/>tion; but the ſupreme powers, and the faithfulneſs of ſuch as Go<g ref="char:EOLhyphen"/>vern the Nation, are the chief Corner-ſtones in the Foundation: And are called the Foundation in <hi>Pſal.</hi> 82.5 <hi>All the Foundations of the Earth are out of Courſe.</hi> It is ſpoken of Judges, and they are called Gods. 1. Becauſe they ſtand in God's ſtead, and are to judge righteouſly, that the Sentence may be God's Sentence, and not
+<pb n="7" facs="tcp:47741:6"/>their own: And when Judges are corrupt and partial, then <hi>the foundations are out of Courſe,</hi> and all goes to confuſion, <hi>fiat ju<g ref="char:EOLhyphen"/>ſtitia, aut periat Mundus:</hi> But when the Foundations are deſtroyed, the matter is much more deplo<g ref="char:EOLhyphen"/>rable: For the Foundations to be out of Courſe is ſad, but when the foundations are deſtroyed it's much worſe; for <hi>Anarchy</hi> is worſe than <hi>Tyranny,</hi> and leads to utter ruine. So that the deſtruction of the foundation is a lamentable loſs to a Nation, eſpecially to all the Righteous in the Nation. And this I further prove thus:</p>
+            <p n="1">1. The Deſtruction of the foun<g ref="char:EOLhyphen"/>dations, Hazards the Super<g ref="char:EOLhyphen"/>ſtructure, and brings down the whole building upon the heads of the Inhabitants, and ſuch of
+<pb n="8" facs="tcp:47741:7"/>them as are righteous, are in great danger thereby of deſtruction, for in a common calamity there is no particular ſafety. Deſtroying the foundations, is the ſame with laying the Axe to the root of the Tree, ſpoken of in <hi>Mat.</hi> 3.10. which threatneth utter deſtructi<g ref="char:EOLhyphen"/>on both to the body and branches thereof, yea irrecoverable deſtru<g ref="char:EOLhyphen"/>ction.</p>
+            <p n="2">2. The deſtruction of the Foun<g ref="char:EOLhyphen"/>dations Heightens the enmity of the common Enemy and promotes their deſigns againſt the Nation; They wait an opportunity to re<g ref="char:EOLhyphen"/>venge themſelves upon the righ<g ref="char:EOLhyphen"/>teous in the Nation that have ſtuck cloſe to the intereſt of the Nation; and the deſtruction of the Foundations put ſuch an op<g ref="char:EOLhyphen"/>portunity into their bloody
+<pb n="9" facs="tcp:47741:7"/>hands, and lays the righteous o<g ref="char:EOLhyphen"/>pen to their rage and Malice. The Foundations are the ſecurity of the righteous from the violence of theſe unreaſonable men, and deſtroying the Foundations de<g ref="char:EOLhyphen"/>ſtroys this ſecurity, and ſo expo<g ref="char:EOLhyphen"/>ſeth them to the Mercy of their Barbarous and Cruel Enemies.</p>
+            <p n="3">3. The deſtruction of the foun<g ref="char:EOLhyphen"/>dations, hinders the proſperity of the Church, whereof the righte<g ref="char:EOLhyphen"/>ous are Members. There is a great diſpute amongſt the Learn<g ref="char:EOLhyphen"/>ed, whether the Commonweal be in the Church, or the Church be in the Commonweal. I take it for granted that the Church is in the Commonweal, and if ſo, then when the Foundations of the Commonweal are deſtroyed, the Church and her Members are
+<pb n="10" facs="tcp:47741:8"/>thereby wounded and bruiſed, and ſhe lying in the bowels of the Commonweal, muſt unavoidably be thereby infringed in her Liber<g ref="char:EOLhyphen"/>ties, diſturbed in her peace, and deprived of her faithful guides.</p>
+            <p n="4">4. The deſtruction of the foun<g ref="char:EOLhyphen"/>dations, holds forth the diſplea<g ref="char:EOLhyphen"/>ſure of God againſt the righteous themſelves: That he is not only angry with the wicked of the Na<g ref="char:EOLhyphen"/>tion, but alſo with the righteous therein, for ſwimming down the ſtream of the Times, and partak<g ref="char:EOLhyphen"/>ing with the wicked in their wick<g ref="char:EOLhyphen"/>edneſs, as, in their pride of Appa<g ref="char:EOLhyphen"/>rel and Intemperance: And there<g ref="char:EOLhyphen"/>fore deſtroys the foundations, that as the righteous have been parta<g ref="char:EOLhyphen"/>kers with the wicked in their ſins, ſo they may partake with them in their puniſhments. Sin is more in<g ref="char:EOLhyphen"/>excuſable
+<pb n="11" facs="tcp:47741:8"/>in the righteous than in the wicked, and therefore ſhall not paſs unpuniſhed, <hi>Amos</hi> 3.2.</p>
+            <div type="inferences">
+               <head>The Inferences hence.</head>
+               <p n="1">1. The Lamentation then of this day for the death of her Ma<g ref="char:EOLhyphen"/>jeſty Queen <hi>Mary</hi> is a juſt and ought to be a ſad and great La<g ref="char:EOLhyphen"/>mentation. By the death of her Royal Perſon there is ſuch a breach made in the foundation, that gives ſuch a terrible ſhake to the building, that makes all the in<g ref="char:EOLhyphen"/>habitants to tremble; perhaps ſome may be ſo ſtupid or ſo in<g ref="char:EOLhyphen"/>toxicated with folly as to be un<g ref="char:EOLhyphen"/>ſenſible; but it's no wonder to ſee the righteous ſo much concerned: <hi>If the Foundation be deſtroyed, what can the Righteous do?</hi> Is not the life of their ſafety loſt, and the loſs
+<pb n="12" facs="tcp:47741:9"/>irrecoverable? Was it not her Majeſties juſt right to the Crown, deſtroyed by a cheat, that gave life to the late happy revolution, and revived a dying Nation? Was it not her preſence in the King's neceſſary abſence, that quieted our home-bred Enemies, and made the Government both ſafe and eaſie? And what Engliſhman that hath any Brains in his Head, or Senſe in his Spirit, can do leſs than lament ſo publick a Loſs, that makes all the Foundations to tremble? Is not this the day in which the ſurviving Foundations are crying out, A Corner-ſtone is taken from amongſt us, and we tremble at the ſhake it gives to the Building? Was ſhe not a well po<g ref="char:EOLhyphen"/>liſhed Stone, as well as a chief Cor<g ref="char:EOLhyphen"/>ner-ſtone, and not only a Strength
+<pb n="13" facs="tcp:47741:9"/>but alſo a Grace and Beauty to the Building? And is not he now in Mourning, that was the great in<g ref="char:EOLhyphen"/>ſtrument under God, that ſaved our Lives and Fortunes, our Laws and our Religion? Is not he cry<g ref="char:EOLhyphen"/>ing out, oh what ſhall I do! And are there not multitudes of righte<g ref="char:EOLhyphen"/>ous perſons crying out, A part of the Foundation is deſtroyed, and what ſhall we do? And ſhall we here that are met before the Lord to La<g ref="char:EOLhyphen"/>ment, be unconcerned? No, no, let us take up that lamentation, <hi>Lam</hi> 5.15, 16. <hi>The Joy of our Hearts is ceaſed, our Dance is turned into Mourning: The Crown is fallen from our Head, Wo to us that we have ſinned,</hi> and ſinn'd a<g ref="char:EOLhyphen"/>way ſuch a choice mercy.</p>
+               <p n="2">2. The Lamentation then of this day, for the death of her Maje<g ref="char:EOLhyphen"/>ſty, ought not only to be a ſad
+<pb n="14" facs="tcp:47741:10"/>lamentation, but alſo a ſolemn, ſerious, and religious lamentation. We muſt not only lament it as a National loſs of a moſt dreadful conſequence, but as the bitter fruit of our own ſins, and as a ſad to<g ref="char:EOLhyphen"/>ken of God's great diſpleaſure. It doth argue (beloved) that God is angry even to Indignation, and that if his anger be not appeaſed by a ſpeedy and ſincere repen<g ref="char:EOLhyphen"/>tance, we have juſt cauſe to fear, that he will make an utter rid<g ref="char:EOLhyphen"/>dance of us: See what is ſaid in <hi>Jer.</hi> 45.4, 5. <hi>Behold that which I have Built, I will pull down:</hi> God built up our Ruines with a high hand, but now he is pulling down what he built up: He hath pulled down many of the Pillars both of our Church and State: He hath taken away many of our Nobles, whoſe
+<pb n="15" facs="tcp:47741:10"/>noble Hearts and Hands had been happy Inſtruments in our late wonderful deliverance: And he hath extinguiſhed many of our burning and ſhining lights, and now he is plucking up the very foundation of the building, and oh how dreadful is this! Surely it calls aloud upon all in General, to take to mind, and penitently to lament our great unthankful<g ref="char:EOLhyphen"/>neſs for, and groſs abuſe of the great deliverance of theſe Nations from Popery and Tyranny, leſt God be provoked to go on in pul<g ref="char:EOLhyphen"/>ling down the foundations, till the building fall upon our Heads. And it calls upon our King and our Parliament, to conſider what they have done for God that hath done ſo much for them, and hath waited patiently ſeveral years for
+<pb n="16" facs="tcp:47741:11"/>returns from them, ſuitable to their receipts from him, and wherein they have fallen ſhort herein, to endeavour to make up, leſt God ſtill proceed in pulling down, and they themſelves periſh in the downfal. Alas, who can ſtand before the Lord when he is angry!</p>
+               <p n="3">3. The Lamentation then of this day, for the death of her Majeſty ought to be ſeconded with double diligence, in ſecuring the Foundations. A breach in the foundations is not to be neglect<g ref="char:EOLhyphen"/>ed, but ſpeedily and carefully to be made up. And it highly con<g ref="char:EOLhyphen"/>cerns our Maſter-builders that are intruſted with the Work, to look well after the foundations, and to keep a vigilant Eye upon ſuch as are no well-wiſhers to the
+<pb n="17" facs="tcp:47741:11"/>foundations, and to check their no<g ref="char:EOLhyphen"/>torious inſolencies; and to cheriſh and promote a firmer Union a<g ref="char:EOLhyphen"/>mongſt our ſelves, and to exerciſe their wiſdom to the utmoſt in ſecu<g ref="char:EOLhyphen"/>ring our foundations And each one in his place, ſhould put his helping hand to this great work of ſecuring the foundations: How chearfully and willingly ſhould we part with ſuch Mony as we pay towards the defence and ſupport of the foun<g ref="char:EOLhyphen"/>dations? And how earneſtly ſhould we pray for the preſervation of the foundations? That God that laid the foundations of the Earth, hath (bleſſed be his name) provided for us good foundations, and though he hath pulled away one of the Corner-ſtones, yet he hath left us enough to ſupport the building; oh pray hard for the ſecurity of
+<pb n="18" facs="tcp:47741:12"/>our foundations; their ſecurity is much more deſirable than our own perſonal ſecurity, for they are Na<g ref="char:EOLhyphen"/>tional Foundations, and their ſe<g ref="char:EOLhyphen"/>curity of univerſal concern to the three Nations, yea to all Prote<g ref="char:EOLhyphen"/>ſtant Nations.</p>
+               <p n="4">4. The Lamentation of this day for the Death of her Majeſty, ought to be ſupported with a ſerious re<g ref="char:EOLhyphen"/>membrance, that <hi>God ſits ſtill in his Temple, and his Throne is in Heaven:</hi> It tells us that the choiceſt of our out<g ref="char:EOLhyphen"/>ward bleſſings are but fading com<g ref="char:EOLhyphen"/>forts, and that Kings and Queens that are cloathed with Majeſty, and admired for their Splendor and Grandure; though adorned with the Wiſdom of <hi>Solomon,</hi> and the uprightneſs of <hi>David,</hi> yet are but men, and have their Breath in their Noſtrils; and are but fair Flowers
+<pb n="19" facs="tcp:47741:12"/>that do flouriſh a whie and then wither, and hang down the head, and drop into the portion of the Weeds: But that God is an ever<g ref="char:EOLhyphen"/>laſting portion to his People, and affords his Subjects protection from generation to generation. And that when the foundation fail, and the Thrones of the Earth are va<g ref="char:EOLhyphen"/>cant, he ſtill ſits in his Temple, and on his Throne in the Heaven; and therefore when the Righteous are mourning for the loſs of their foundations, they are not to mourn as without hope, but to moderate their ſorrows with this conſidera<g ref="char:EOLhyphen"/>tion, that <hi>God is ſtill in his Holy Temple.</hi> And this they muſt do, to ſtifle their fears, and to ſtrengthen their faith. 1. To ſtifle their fears: The deſtruction of the foundations is a frightful diſpenſation, and raiſeth
+<pb n="20" facs="tcp:47741:13"/>grievous ſtorms of great fears in the Souls of the Righteous: Now think they, Alas! alas! What can the Righteous do: The Church of God is upon the ruin, our Viſions we fear will fail, our Teachers be driven into Corners, our day of Salvation is like to be turned into a Night of Darkneſs, and what ſhall we do? Now to ſuppreſs theſe fears, this they muſt do; they muſt con<g ref="char:EOLhyphen"/>ſider that God is ſtill in Heaven, <hi>Eccleſ.</hi> 7.14. <hi>In the day of Adverſity Conſider,</hi> that the cauſe is ſin, and we muſt be humbled for it; and that the end of the Adverſity, is to try, prove, and purge us: and that the hand from which the Adverſi<g ref="char:EOLhyphen"/>ty comes is God, <hi>who ſits in his Holy Temple,</hi> and orders all adverſities, with regard to his own Glory, and the good of his Church and
+<pb n="21" facs="tcp:47741:13"/>People. 2. To ſtrengthen Faith. When humane hope fails, hoping in God is to be ſupported: When there is no help to be had on Earth, there is help enough in Heaven: Means in ſight, and means out of ſight are all one with God: And therefore when the righteous are thus caſt down, then they muſt look up, as the <hi>Pſalmiſt</hi> here doth: The fore-thoughts of the deſtru<g ref="char:EOLhyphen"/>ction of the foundations daunted him; but under this diſcourage<g ref="char:EOLhyphen"/>ment he turns his Eyes upward, and his confidence was thereby revived, and he concludes <hi>v.</hi> 7. <hi>That the Righteous God loves Righteouſneſs, and his Eyes behold the upright,</hi> viz. with a favourable aſpect, and ſmiling countenance, and with great re<g ref="char:EOLhyphen"/>gard; and <hi>Lam.</hi> 3.21, 22. <hi>This I re<g ref="char:EOLhyphen"/>call to mind</hi> (ſays the Church) <hi>there<g ref="char:EOLhyphen"/>fore
+<pb n="22" facs="tcp:47741:14"/>have I hope:</hi> I recal to mind that God is ſtill in Heaven, and his com<g ref="char:EOLhyphen"/>paſſions fail not, and his faithful<g ref="char:EOLhyphen"/>neſs is great, and <hi>therefore have I hope:</hi> This was the conſequence of theſe conſiderations, and they are the neceſſary conſequence, and the natural fruit that they produce: For the conſideration of <hi>God ſitting in his Holy Temple,</hi> and having <hi>his Throne in the Heavens</hi> doth demon<g ref="char:EOLhyphen"/>ſtrate,</p>
+               <p n="1">1. The readineſs of God to help the righteous: He ſits on his Throne in the Temple of Heaven, to receive the complaints of the oppreſſed, and to relieve them, <hi>Eccleſ.</hi> 5.8. If thou ſeeſt the violent perverting of judgment in a Province, marvel not at it, for he that is higher than the higheſt regardeth it, and there be higher than they. The oppreſ<g ref="char:EOLhyphen"/>ſed
+<pb n="23" facs="tcp:47741:14"/>have a higher Court to appeal to, than the higheſt Courts of men, where their grievances ſhall be heard without coſtly attendance, and they ſhall certainly be righted by the great God that is higher than the higheſt, and hath thoſe imployed in his ſervice, who are higher than the Judges of the Earth, to wit, his Angels. Upon this con<g ref="char:EOLhyphen"/>ſideration it was that <hi>Job</hi> durſt not turn his back upon the juſt cauſe of one of his Servants, whom he might have trampled under his feet, <hi>Job</hi> 31.13, 14. <hi>Did I deſpiſe the cauſe of my Man-ſervant, what then ſhall I do when God riſeth up?</hi> He is no reſpecter of perſons: The Cauſe of the Servant ſhall be heard before him, as well as the Cauſe of the Maſter: And the injuries that imperious Maſters do to their poor Servants, he will re<g ref="char:EOLhyphen"/>venge,
+<pb n="24" facs="tcp:47741:15"/>and riſe up for that end and purpoſe: And ſits upon his Throne in his Holy Temple of Heaven in conſtant readineſs to hear the com<g ref="char:EOLhyphen"/>plaints of his oppreſſed Subjects; and this doth further demonſtrate the righteouſneſs of God in doing juſtice; his Throne is in his holy Temple of Heaven, where no in<g ref="char:EOLhyphen"/>juſtice can enter. There is a vaſt difference betwixt the proceedings of that Court, and the proceed<g ref="char:EOLhyphen"/>ings of the Courts on Earth: There is no bribing, no tilting of the Bal<g ref="char:EOLhyphen"/>lance, no carrying of unjuſt cauſes by forgery, falſe witneſs, or tricks in law. He lays righteouſneſs to the Plummet, <hi>Iſa.</hi> 28.17. So exact in Juſtice, that he erreth not a hairs breadth therein: And when tranſ<g ref="char:EOLhyphen"/>actions here came to be reviewed there, and Cauſes called over-a<g ref="char:EOLhyphen"/>gain
+<pb n="25" facs="tcp:47741:15"/>in that Court, then the de<g ref="char:EOLhyphen"/>ſtroyers of our good foundations, will be juſtly condemned for the worſt of Traytors. This alſo de<g ref="char:EOLhyphen"/>monſtrates, The irreſiſtableneſs of his power in executing juſtice. He is in Heaven out of the reach of his Enemies, and from Heaven he pour<g ref="char:EOLhyphen"/>eth down his judgments upon the heads of ſuch as undermine the foundations: And a judgment from Heaven is unavoidable, <hi>Rom.</hi> 1.18. <hi>Wrath is revealed from Heaven againſt all ungodlineſs and unrighteouſneſs:</hi> The endeavours of men to deſtroy the foundation, are acts of unrighte<g ref="char:EOLhyphen"/>ouſneſs, and very injurious to the righteous, and the righteous God will not bear long with ſuch un<g ref="char:EOLhyphen"/>godly and unrighteous perſons that ſeek to deſtroy the foundati<g ref="char:EOLhyphen"/>ons; And when he falls upon ſuch,
+<pb n="26" facs="tcp:47741:16"/>and revealeth his wrath from Hea<g ref="char:EOLhyphen"/>ven againſt them, then wo unto them. Their policy and power will nothing avail them, for their Wiſ<g ref="char:EOLhyphen"/>dom, compared to his, is Folly, and their Power compared to his, is Weakneſs: And they are no more to him than a ſtraw in the hand of a Giant, or a little Chaff before the Wind, <hi>Pſ.</hi> 2.4. he laughs them to ſcorn. Their great Armies to him are but like a bubble upon the Water, that dance a little, and quickly burſt and diſappear and vaniſh a<g ref="char:EOLhyphen"/>way: And laſtly, this demonſtrates the regard that he hath to the righ<g ref="char:EOLhyphen"/>teous under the ſaddeſt circum<g ref="char:EOLhyphen"/>ſtances that befal them: When ſup<g ref="char:EOLhyphen"/>ter-refuges fail, and the foundati<g ref="char:EOLhyphen"/>ons are deſtroyed, he ſits in his Ho<g ref="char:EOLhyphen"/>ly Temple beholding and pittying their caſe, and waiting for a meet
+<pb n="27" facs="tcp:47741:16"/>opportunity to ariſe and ſave them And if he delay their deliverance, it's but to time it ſo, as it may be more ſplendid and glorious. Un<g ref="char:EOLhyphen"/>der our Lamentations for the de<g ref="char:EOLhyphen"/>ſtruction of the foundations, you ſee it's our wiſdom, to ſupport our Spirits with the ſerious conſidera<g ref="char:EOLhyphen"/>tion of our relation to God, and of his ſitting on his Throne in Hea<g ref="char:EOLhyphen"/>ven. Yea if God ſhould go on in plucking up our foundations (which God forbid) yet we muſt not ſit down in deſpair, but in all ſuch caſes, bear up our Spirit and ſtrengthen our Faith, by minding that <hi>God's Throne is in Heaven,</hi> and God as high as ever, and as ready to ſhew mercy as ever: And when we are lamenting the loſs of the Foundations, and crying out, <hi>What ſhall the Righteous do?</hi> We muſt then
+<pb n="28" facs="tcp:47741:17"/>imitate upright <hi>David,</hi> and check our diſtruſtful hearts, and look up to the Lord, <hi>who ſits in his Holy Temple, and whoſe Throne is in Heaven.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Preſervation of the Foundations.</head>
+               <p>
+                  <hi>O</hi> Moſt Merciful Father, who laidſt the foundation of the Earth, and whoſe Throne is in Heaven, and haſt found<g ref="char:EOLhyphen"/>ed theſe famous Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> upon moſt ex<g ref="char:EOLhyphen"/>cellent foundations, be pleaſed for the ſake of the Righteous, and for the ſake of thy beloved Son and our Advocate, to glorifie thy own name in the preſervation of our foundations. Thou haſt made us happy a<g ref="char:EOLhyphen"/>bove others in our foundations; we have many righteous Laws, a Matchleſs fun<g ref="char:EOLhyphen"/>damental Conſtitution, and faithful Go<g ref="char:EOLhyphen"/>vernors, and live at Eaſe and Peace un<g ref="char:EOLhyphen"/>der them; and we thankfully acknowledge
+<pb n="29" facs="tcp:47741:17"/>that herein thou haſt commended thy love to us, and humbly beg thy pardon for our unthankfulneſs, and the diſhonour we have done to thy name under theſe mercies, whereby we have juſtly provoked thee to pluck away a chief Corner-ſtone out of the foundation, and to cauſe us to tremble and fear the effects of thy diſpleaſure. Juſt art thou in thy proceedings, and mayſt juſtly proceed in pulling down the famous ſtructure that thou haſt built for us: But if the foundations be deſtroyed, Lord what ſhall the righteous do? Oh be thou reconciled to us and take away our iniqui<g ref="char:EOLhyphen"/>ties, and receive us into favour, and ſe<g ref="char:EOLhyphen"/>cure for us our foundations; pluck up no more of the Corner-ſtones thereof; but make our good foundations laſting foun<g ref="char:EOLhyphen"/>dations; and help all the inhabitants of the land in the due diſcharge of their du<g ref="char:EOLhyphen"/>ty to ſerve thee in fear, that we being true to thee, and to our own Intereſt, thou
+<pb n="30" facs="tcp:47741:18"/>mayſt delight in us, and eſtabliſh our foun<g ref="char:EOLhyphen"/>dations for us, and be glorified both by us and in us, <hi>For thine is the Kingdom, the Power and Glory for ever and ever.</hi>
+               </p>
+               <closer>Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>THere is lately publiſhed by the ſame Author: <hi>The Helmet of Hope,</hi> diſtinguiſhed from the Hope of Hypocrites. And publiſhed to prevent the danger of Falſe Hope, and to promote the Duty of Living in true Hope of Glory. With an Appen<g ref="char:EOLhyphen"/>dix of the Grounds of Hope, Collected in a Caralogue of Pro<g ref="char:EOLhyphen"/>miſes and Experiences.</p>
+            <pb facs="tcp:47741:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
